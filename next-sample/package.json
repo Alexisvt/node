@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "now"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +20,7 @@
     "babel-cli": "^6.18.0",
     "babel-eslint": "^7.1.1",
     "eslint": "^3.12.2",
+    "eslint-plugin-flowtype": "^2.29.1",
     "eslint-plugin-react": "^6.8.0"
   }
 }
