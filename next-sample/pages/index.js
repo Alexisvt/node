@@ -21,6 +21,7 @@ export default class HomePage extends React.Component {
       <div className={somestyles}>
         <Head>
           <title>Next -- {`will insert page title here`}</title>
+          <script src='/register.js' />
         </Head>
         <Header>
           Page Title

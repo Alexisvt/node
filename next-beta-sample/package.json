@@ -1,25 +1,18 @@
 {
-  "name": "next-sample",
+  "name": "next-beta-sample",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next",
-    "devCustom": "node server.js",
-    "build": "next build",
-    "start": "next start",
-    "deploy": "now"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0",
-    "next": "^2.0.0-beta.4"
+    "next": "^2.0.0-beta.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.18.0",
     "babel-eslint": "^7.1.1",
     "eslint": "^3.12.2",
     "eslint-plugin-flowtype": "^2.29.1",
