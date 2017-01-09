@@ -21,6 +21,7 @@ export default class HomePage extends React.Component {
       <div className={somestyles}>
         <Head>
           <title>Next -- {`will insert page title here`}</title>
+          <link rel="icon" type="image/x-icon" href="/favicon.ico" />
           <script src='/register.js' />
         </Head>
         <Header>

@@ -16,13 +16,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
-    "next": "^2.0.0-beta.4"
+    "next": "^2.0.0-beta.4",
+    "sw-toolbox": "^3.4.0"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-eslint": "^7.1.1",
     "eslint": "^3.12.2",
     "eslint-plugin-flowtype": "^2.29.1",
-    "eslint-plugin-react": "^6.8.0"
+    "eslint-plugin-react": "^6.8.0",
+    "sw-precache-webpack-plugin": "^0.7.0"
   }
 }
