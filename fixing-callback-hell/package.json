@@ -1,0 +1,16 @@
+{
+  "name": "fixing-callback-hell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-callback-hell.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^8.0.34"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
