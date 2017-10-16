@@ -1,20 +1,14 @@
 {
-  "name": "fsPractices",
+  "name": "streams-sample",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Alexis",
-    "node"
-  ],
-  "author": "alexis",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "async": "^0.9.0"
-  },
-  "description": "",
   "devDependencies": {
     "@types/node": "^8.0.34"
   }
