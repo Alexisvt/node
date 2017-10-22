@@ -15,4 +15,6 @@ const server = http.createServer((req, res) => {
     stream.pipe(res);
   }
 });
-server.listen(PORT);
+server.listen(PORT, () => {
+  console.log('Server listening on http://localhost:%s', PORT);
+});
